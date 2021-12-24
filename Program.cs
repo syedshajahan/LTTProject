@@ -10,6 +10,7 @@ namespace LTTTask
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello...!");
         }
     }
 }
